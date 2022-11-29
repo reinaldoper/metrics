@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="142" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
+                    </svg>
+                    Suggested tracks
+                </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                            </svg>
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAcCBQYIA//EACwQAAEDAwMDAwQCAwAAAAAAAAECAwQABREGEiExQVEHE2EUIjJxgaEjM5H/xAAZAQEBAAMBAAAAAAAAAAAAAAAFBAECBgP/xAAjEQACAgEDAwUAAAAAAAAAAAABAwACEQQSIRMxUTJBUpGh/9oADAMBAAIRAxEAPwD3v2oo0mJdLva/pkGC2gYaQptTi84SAlQznd8cYHmnBoyz2u42KOSwjO0ONrz/AJG1eQex/quRpk+/zLim6qgSfpnFJXNU01hslKwQcY4Ax8966hsVgsMWM3qJMiU24v2whtySfaYUSBlOfxHkZxQjFbWg357xy5qVnp5HIlT6l3m76SYTE2oTDUSWHEcJVjkoHg4zgdsccdJaU9SrfLucaz3R4NTHmkLjvq4S+SPxPZK/jof3UvU/R9rudtuF0ZlviS8kpRmQfaSvOAs+R8dKVPqPpFjZEdirSFKbQ22B1ISMZJ/5/JolTVK1G0E85lGAxAOOfqdCPPGRLbYTnnr8DvRWD9FWdTo0/IkapbIS3hqG4+cPLSOu4dx0AV1P90U9RWRkjM8N3xkrdp65typf0stSDKdWtyP7Q2Ic6q2ZOUjkjGORgdqYzECPaLc2lycI0NB3Fxz7Ep45SrPQZ6ZpS+mGqbva4KHrnMM23XDe6208ol5Ck4G5Kz5PY/sU2bPJbuUqU1MeQ+0sFlbC05SoEcpVkc+PFYbsJHmQizAD4lJql6JdovsR3hKY9xCElJyFkqwMEHoD/HFY/UVvjXH1P0vCktKMRtp7LKD+RGSCrwglB/e3xWqu9vhaPmv3Bpbsj2EBMWIshLbeegHc9euDS1uOo5U59yc3siSipLzKkEkNkBSSCe6SCeKJ0mktR9ru75/IpRZasBfpm011qhqzwXWWlhIR9gSjnafAwaKRGsrhJluOqSQW28qVzznrgefNFPBuOBLV6ela4MpbLqybOjufVXAMxic+0hpJIUVdAoDcRuVnA7U/PTG5SLDb31XRyRKvalokOsyiUIQys4+0Yxu4J655GaKK2dQU5qJzenJZYVt7yo1ZqpSrq89LUHlqVnJSkhI7AZHAx2pfzNWRmo2FNI3bif8AQjxgcYxRRU2lG62TOvYqgAAGJn5MmVfo0hMKElxps7lOJaaQpPcDOMgcdjRRRVRqJBvNTgT/2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Everytime We Touch</div>
+                                    <div class="artist">Cascada</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcFCAEEBgP/xAAxEAABAgUBBAgGAwAAAAAAAAABAgMABAUGESEHEjFBExQWMlFVlNEVI1JhcZEicoH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQAAf/EABsRAAMBAQEBAQAAAAAAAAAAAAABAhEDMSES/9oADAMBAAIRAxEAPwCtvam4PPar6xz3jIum4M612q+sc94hwCTgcY2qY2HKlLNrSCFOpSUk45xm8R1LXh0jlx1ZpKnzUbh6stPyyqccGD/bODr9tftER2puDz2q+rc94tXdJpVQ2WqYYsuZbC0LZQtcuhCmlAaOE53sZ5/mKiysnMTbzjUsyt1aEqcUEjupSCVE+AABML59P2HfNwb/AGpuDz2q+rc94IhoIYLPeUbU7NNIS6hpSlABa1bqUnxJ5fmHrQNmrO0O3WZr4xKSV4MEhwtqS41NIHcUpSCfmHmsceYzkwhIYux227pq1cbnbbm1U1iXWOlnVkhseKcDvnHL94gOjxbuDOf14TgmatOvC2y5WG7teUJFck42kIQMgb29jewBlWc4xjkBHW7SbZse0LbnKRQ55MlUppKGpudcUp4qQkpUpAAOm8Ug4A44BwMmGO1cNPnKjM0yZm5Vq4kS5YE60hPSlv6kE6qRnXdPD78YrptQ2eXJRZmYqk9MfGJNaipU63nIB+pJ1T/mQPGJotN4vhT0TzfReTgl0zLgk1Orlwf4KdSEqI8SASB+MmCNeCLCImuytw+RVb0bntDcp9212jbOpCiUa1Km1PtpUl1fUXN3Oe8TjUnjBBA1CvEw5pzuCxcpV3uVQ1JVLrfXt/f6bqrm9n9Q0JC+7sNo1GlVW2KpMTDzCm2nOorKckYyRjTTXnBBHK5zXqNHSp8FD2VuHyGrejc9oIIIMA//2Q==" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Bu-Ikikaesu!!</div>
+                                    <div class="artist">MAXIMUM THE HORMONE</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
